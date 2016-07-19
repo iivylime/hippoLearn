@@ -57,7 +57,7 @@
         <sv:value>2016-07-16T21:30:28.370+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:04.536+08:00</sv:value>
+        <sv:value>2016-07-19T10:45:09.999+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -70,6 +70,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>664.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -85,7 +91,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">
@@ -152,7 +158,7 @@
         <sv:value>2016-07-16T21:30:28.370+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:15.317+08:00</sv:value>
+        <sv:value>2016-07-19T10:45:28.775+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -165,6 +171,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>664.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -180,7 +192,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">
@@ -246,13 +258,13 @@
         <sv:value>2016-07-16T21:30:28.370+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:15.317+08:00</sv:value>
+        <sv:value>2016-07-19T10:45:28.775+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:18.773+08:00</sv:value>
+        <sv:value>2016-07-19T10:45:33.869+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>9f57285d-d52e-40a7-8e8c-0ce91991b1e5</sv:value>
@@ -262,6 +274,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>664.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -277,7 +295,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">
@@ -353,7 +371,7 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:24.927+08:00</sv:value>
+        <sv:value>2016-07-19T10:45:37.231+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -366,6 +384,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>665.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -381,7 +405,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">
@@ -448,7 +472,7 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:52.261+08:00</sv:value>
+        <sv:value>2016-07-19T10:45:58.005+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -461,6 +485,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>665.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -476,7 +506,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">
@@ -542,13 +572,13 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:52.261+08:00</sv:value>
+        <sv:value>2016-07-19T10:45:58.005+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:37:55.476+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:02.233+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>0bfec585-2113-46d3-ae09-76c49d5b35ef</sv:value>
@@ -558,6 +588,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>665.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -573,7 +609,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">
@@ -654,7 +690,7 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:38:13.613+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:25.190+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -667,6 +703,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>667.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73169-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -748,13 +790,13 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:38:13.613+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:25.190+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:38:16.926+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:27.682+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>f9400939-bf60-4967-8fec-63a9840ceb61</sv:value>
@@ -764,6 +806,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>667.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73169-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -844,7 +892,7 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:38:01.089+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:06.299+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -857,6 +905,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>667.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73169-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -953,7 +1007,7 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:38:13.613+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:51.542+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -966,6 +1020,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>667.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -981,7 +1041,7 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">
@@ -1047,13 +1107,13 @@
         <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:38:13.613+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:51.542+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-07-16T21:38:30.681+08:00</sv:value>
+        <sv:value>2016-07-19T10:46:53.983+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>e6bb1e2b-2ede-45b6-a099-e8f486d5f721</sv:value>
@@ -1063,6 +1123,12 @@
       </sv:property>
       <sv:property sv:name="kohler:catlog" sv:type="String">
         <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>667.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:string" sv:type="String">
         <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
@@ -1078,7 +1144,106 @@
           <sv:value>hippostd:html</sv:value>
         </sv:property>
         <sv:property sv:name="hippostd:content" sv:type="String">
-          <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          <sv:value/>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="kohler:thumbnail">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>a311620b-592c-4b3c-b27e-f47a24b94403</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="kohler:midPicture">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="kohler:largePicture">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="faucet4">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>kohler:product</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>241cbf26-c265-41d8-98a0-517142338ee1</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>faucets/faucet4/faucet4</sv:value>
+        <sv:value>faucets/faucet4/faucet4[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-07-19T10:46:32.584+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>e6bb1e2b-2ede-45b6-a099-e8f486d5f721</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>en</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:catlog" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:price" sv:type="Double">
+        <sv:value>667.0</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:sku" sv:type="String">
+        <sv:value>K-73168-CP</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:string" sv:type="String">
+        <sv:value>Composed&lt;sup&gt;™&lt;/sup&gt; tall single-handle bathroom sink faucet with lever handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:text" sv:type="String">
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="kohler:type" sv:type="String">
+        <sv:value>New Products</sv:value>
+      </sv:property>
+      <sv:node sv:name="kohler:description">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value/>
         </sv:property>
       </sv:node>
       <sv:node sv:name="kohler:thumbnail">

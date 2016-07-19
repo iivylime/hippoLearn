@@ -48,4 +48,14 @@ public class Product extends ContentDocument {
     public Imageset getLargePicture() {
         return getLinkedBean("kohler:largePicture", Imageset.class);
     }
+
+    @HippoEssentialsGenerated(internalName = "kohler:price")
+    public Double getPrice() {
+        return getProperty("kohler:price");
+    }
+
+    @HippoEssentialsGenerated(internalName = "kohler:sku")
+    public String getSku() {
+        return getProperty("kohler:sku");
+    }
 }

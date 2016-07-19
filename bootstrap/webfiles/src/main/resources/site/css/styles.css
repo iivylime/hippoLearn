@@ -18,15 +18,17 @@ section{
 .l {float: left;}
 .base a{text-decoration: none;}
 .base img{vertical-align:top;}
-.m-b-20 {
+/*.m-b-20 {
 	margin-bottom:20px;
 }
 .m-t-20 {
 	margin-top:20px;
-}
-.row{
+}*/
+.base .row{
 	clear: both;
     display: block;
+    margin:0;
+    padding:0;
 }
 
 /*clearfix*/
@@ -155,7 +157,7 @@ input[name="searchbar"]{
 .base .container {
 	width:980px;
 	margin: 0 auto; 
-
+	padding:0;
 }
 
 .banner {
@@ -243,10 +245,15 @@ input[name="searchbar"]{
     font-size: 15px;
     line-height: 20px;
 }
+.side-nav .prod-name{
+	margin:0 0 40px 0;
+	
+}
 .side-nav .prod-name h2{
 	font-size: 28px;
 	font-weight: normal;
 	margin: 0;
+	text-transform:uppercase;
 }
 .side-nav .prod-name p {
 	color:#999;
@@ -255,6 +262,7 @@ input[name="searchbar"]{
 }
 .action-wrap{
 	float: right;
+	 margin:0 0 40px 0;
 }
 .action-wrap select[name="sort-by"]{
 	padding: 5px 20px 5px 15px;
@@ -278,7 +286,10 @@ input[name="searchbar"]{
 .action-wrap button:hover {
 	background-color: 
 }
+.product-category-list {
+    clear: both;
 
+}
 .product-category-list li a {
 	cursor: pointer;
 }
@@ -305,7 +316,8 @@ input[name="searchbar"]{
     padding:10px 0;
 }
 .side-section {
-	position: relative;
+	/*position: relative;
+	*/
 	width: 80%;
 	float: left;
 }
@@ -313,12 +325,14 @@ input[name="searchbar"]{
 	font-size: 20px;
 	border-bottom:1px solid #ccc;
 	padding-bottom:30px;
+	position:relative;
 }
-.side-section .title a {
+.side-section .title a {	
 	font-size: 12px;
 	position: absolute;
     top: 8px;
     right: 0px;
+   
 }
 .side-section .title a:hover {
 	text-decoration: underline;
