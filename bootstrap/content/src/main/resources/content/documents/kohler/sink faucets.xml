@@ -14,4 +14,7 @@
   <sv:property sv:name="hippofacnav:facets" sv:type="String" sv:multiple="true">
     <sv:value>kohler:type</sv:value>
   </sv:property>
+  <sv:property sv:name="hippofacnav:sortby" sv:type="String" sv:multiple="true">
+    <sv:value>kohler:sku</sv:value>
+  </sv:property>
 </sv:node>

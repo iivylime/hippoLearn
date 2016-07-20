@@ -120,7 +120,7 @@
       <sv:value>hst:pages/faucets</sv:value>
     </sv:property>
     <sv:property sv:name="hst:relativecontentpath" sv:type="String">
-      <sv:value>faucetsfacets</sv:value>
+      <sv:value>sink faucets</sv:value>
     </sv:property>
     <sv:node sv:name="_any_.html">
       <sv:property sv:name="jcr:primaryType" sv:type="Name">

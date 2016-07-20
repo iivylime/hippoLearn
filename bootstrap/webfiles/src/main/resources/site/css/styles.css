@@ -272,6 +272,57 @@ input[name="searchbar"]{
     height: 40px;
     float: left;
 }
+.action-wrap .sort-dropdown{
+	float:left;
+	border: 1px solid;
+	border-color:#A9A9A9;
+	background: url(../images/arrow4.png) right top no-repeat;
+	border-radius: 2px;
+	width:162px;
+	line-height: 30px;
+    color: #898989;
+    font-weight: normal;
+	position:relative;
+}
+.action-wrap .sort-dropdown p{
+	width: 160px;
+    height: 35px;
+    padding: 0 0 0 10px;
+    margin:0;
+}
+.action-wrap .sort-dropdown .dropdownlist{
+	padding: 0;
+    width: 160px;  
+    line-height: 30px;
+    float: left;
+	border: 1px solid;
+	border-color:#A9A9A9;
+	position: absolute;
+	top: 35px;
+    left: 0;
+    z-index: 1;
+	background-color: #fff;
+	display:none;
+	}
+	
+.action-wrap  .sort-dropdown.active  .dropdownlist{	
+	display:block;
+}
+.action-wrap .sort-dropdown .dropdownlist li{	
+	display: block;
+    padding: 0px 2px 1px;
+    white-space: pre;
+     height: 35px;
+	}
+	
+.action-wrap .sort-dropdown .dropdownlist	li:hover {
+    background-color: #7d7d7d;
+    color: #fff;
+	}
+	
+	.action-wrap .buttons{
+	float:right;
+}
 .action-wrap button {
 	background-color: #dbdbdb;
     -webkit-border-radius: 4px;

@@ -3,12 +3,15 @@
     <sv:value>hippofacnav:facetnavigation</sv:value>
   </sv:property>
   <sv:property sv:name="hippo:count" sv:type="Long">
-    <sv:value>4</sv:value>
+    <sv:value>10</sv:value>
   </sv:property>
   <sv:property sv:name="hippo:docbase" sv:type="String">
     <sv:value>e0e6417a-4bf5-443e-a995-7f4baf49541d</sv:value>
   </sv:property>
   <sv:property sv:name="hippofacnav:facets" sv:type="String" sv:multiple="true">
     <sv:value>type</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippofacnav:sortby" sv:type="String" sv:multiple="true">
+    <sv:value>kohler:sku</sv:value>
   </sv:property>
 </sv:node>
