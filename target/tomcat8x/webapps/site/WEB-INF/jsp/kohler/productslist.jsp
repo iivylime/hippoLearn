@@ -10,9 +10,10 @@
 	<div class="sort-dropdown">
 		<p>order by</p>
 		<ul class="dropdownlist">
-			<li class="option" data-type="sku" data-ascend="true">Sort Default </li>
-			<li class="option" data-type="price" data-ascend="false">Price from high to low</li>
-			<li class="option" data-type="price"data-ascend="true">Price from low to high</li>
+			<li class="option" data-type="sku" data-ascend="true">Sku: A-Z </li>
+			<li class="option" data-type="sku" data-ascend="false">Sku: Z-A </li>
+			<li class="option" data-type="price" data-ascend="false">Price : High - Low</li>
+			<li class="option" data-type="price"data-ascend="true">Price: Low - High</li>
 		</ul>
 	</div>
 	<div class="buttons">
@@ -44,6 +45,6 @@
     <script type="text/javascript" src="<hst:webfile path="/js/jquery-2.1.0.min.js"/>"></script>
   </hst:headContribution>
    <hst:headContribution category="htmlBodyEnd">
-    <script type="text/javascript" src="<hst:webfile path="/js/sort_jso.js"/>"></script>
+    <script type="text/javascript" src="<hst:webfile path="/js/sort.min.js"/>"></script>
   </hst:headContribution>
 </c:if>

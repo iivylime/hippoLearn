@@ -2,25 +2,31 @@
 
 <%--@elvariable id="menu" type="org.hippoecm.hst.core.sitemenu.HstSiteMenu"--%>
 <%--@elvariable id="editMode" type="java.lang.Boolean"--%>
+<ul class="l">
 <c:choose>
   <c:when test="${menu ne null}">
     <c:if test="${not empty menu.siteMenuItems}">
-      <ul class="l">
-        <c:forEach var="item" items="${menu.siteMenuItems}">
+        <c:forEach var="item" items="${menu.siteMenuItems}"> 
+        <%--  <c:if test="${not empty items.childMenuItems}">
+        	 <c:forEach var="child" items="${items.childMenuItems}">
+        	 	${item.name}-->${child.name}
+        	 </c:forEach>
+        </c:if>--%>
           <c:choose>
+           <c:when test="${fn:toLowerCase(item.name) eq 'home'}">
+             <li  class="logo"><a href="<hst:link link="${item.hstLink}"/>"><img src="<hst:webfile path="/images/logo.png"/>" alt="Logo"/></a></li>
+            </c:when>
             <c:when test="${item.selected or item.expanded}">
               <li class="active"><a href="<hst:link link="${item.hstLink}"/>"><c:out value="${item.name}"/></a></li>
-            </c:when>
+            </c:when> 
             <c:otherwise>
               <li><a href="<hst:link link="${item.hstLink}"/>"><c:out value="${item.name}"/></a></li>
             </c:otherwise>
           </c:choose>
         </c:forEach>
-      </ul>
-    </c:if>
-    <hst:cmseditmenu menu="${menu}"/>
-  </c:when>
-
+	   </c:if>
+	   <hst:cmseditmenu menu="${menu}"/>
+	  </c:when>
   <%--Placeholder reminding us to configure a valid menu in the component parameters--%>
   <c:otherwise>
     <c:if test="${requestScope.editMode}">
@@ -29,3 +35,10 @@
     </c:if>
   </c:otherwise>
 </c:choose>
+	<li class="searchwrap">
+		<input type="text" name="searchbar" maxlength="250" placeholder="search" autocomplete="off">		
+	</li>
+	<li class="my-cart">
+		<a href=""><img src="<hst:webfile  path="/images/cart.png"/>" alt=""></a>
+	</li>
+ </ul>

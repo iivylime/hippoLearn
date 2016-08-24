@@ -22,7 +22,7 @@
  		</div>
  		<nav class="clearfix">
  			<hst:include ref="menu"/> 			
- 			<a href="/site"><img src="<hst:webfile  path="/images/logo.png"/>" class="logo" alt=""></a>
+ 			<%-- <a href="/site"><img src="<hst:webfile  path="/images/logo.png"/>" class="logo" alt=""></a>
  			<ul class="r">
  				<li><a href="">IDEAS</a></li>
  				<li class="searchwrap">
@@ -30,7 +30,7 @@
  					<a href="" class="my-cart"><img src="<hst:webfile  path="/images/cart.png"/>" alt=""></a>
  				</li>
  			</ul>
-
+			 --%>
  		</nav>
  	</header><!-- /header -->
     
