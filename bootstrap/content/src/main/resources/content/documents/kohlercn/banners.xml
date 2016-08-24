@@ -190,6 +190,85 @@
         </sv:property>
       </sv:node>
     </sv:node>
+    <sv:node sv:name="banner-cn1">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>kohler:bannerdocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>a988cdc5-45f9-48a0-9231-25637eac10fc</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>banners/banner-cn1/banner-cn1[2]</sv:value>
+        <sv:value>banners/banner-cn1/banner-cn1</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:holder" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2014-03-20T17:00:00.000+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T14:19:58.869+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>daa5c839-be97-43bd-9ade-0be7c2b7832b</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>zh</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:title" sv:type="String">
+        <sv:value>Sample banner</sv:value>
+      </sv:property>
+      <sv:node sv:name="kohler:content">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;html&gt;
+          &lt;body&gt;
+
+          &lt;p&gt;Banner description&lt;/p&gt;
+
+          &lt;/body&gt;
+          &lt;/html&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="kohler:image">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>b89d576f-680a-4bbf-9c27-2dced9da3d6c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="kohler:link">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:mirror</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
   </sv:node>
   <sv:node sv:name="banner-cn2">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -402,7 +481,7 @@
         <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:12:47.881+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:20.511+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -414,7 +493,7 @@
         <sv:value>zh</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:title" sv:type="String">
-        <sv:value>Product Story 1</sv:value>
+        <sv:value>产品故事1</sv:value>
       </sv:property>
       <sv:node sv:name="kohler:content">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -473,13 +552,13 @@
         <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:12:47.881+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:20.511+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:13:44.481+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:26.893+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>8b216a4e-fdf1-4e50-b242-43fa5bd50473</sv:value>
@@ -488,7 +567,77 @@
         <sv:value>zh</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:title" sv:type="String">
-        <sv:value>Product Story 1</sv:value>
+        <sv:value>产品故事1</sv:value>
+      </sv:property>
+      <sv:node sv:name="kohler:content">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="kohler:image">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>09e7137b-816f-4b7d-9bb9-59505704b9e4</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="kohler:link">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:mirror</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="product-story1">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>kohler:bannerdocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>66627fb2-8c3e-4385-ab49-7ceab7f8445a</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>banners/product-story1/product-story1</sv:value>
+        <sv:value>banners/product-story1/product-story1[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T14:20:20.784+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>8b216a4e-fdf1-4e50-b242-43fa5bd50473</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>zh</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:title" sv:type="String">
+        <sv:value>产品故事1</sv:value>
       </sv:property>
       <sv:node sv:name="kohler:content">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -558,7 +707,7 @@
         <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:13:32.521+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:46.269+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -570,7 +719,7 @@
         <sv:value>zh</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:title" sv:type="String">
-        <sv:value>Product Story 1</sv:value>
+        <sv:value>产品故事2</sv:value>
       </sv:property>
       <sv:node sv:name="kohler:content">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -629,13 +778,13 @@
         <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:13:32.521+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:46.269+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:13:38.957+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:48.198+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>a2bdf866-e8a1-45a7-a074-163648547f88</sv:value>
@@ -644,7 +793,77 @@
         <sv:value>zh</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:title" sv:type="String">
-        <sv:value>Product Story 1</sv:value>
+        <sv:value>产品故事2</sv:value>
+      </sv:property>
+      <sv:node sv:name="kohler:content">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="kohler:image">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>baafc672-a330-4857-9deb-50c38a748deb</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="kohler:link">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:mirror</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="product-story2">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>kohler:bannerdocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>464c740a-dba2-4846-9443-567a8c0e9f9f</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>banners/product-story2/product-story2[2]</sv:value>
+        <sv:value>banners/product-story2/product-story2</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T14:20:39.196+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>a2bdf866-e8a1-45a7-a074-163648547f88</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>zh</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:title" sv:type="String">
+        <sv:value>产品故事2</sv:value>
       </sv:property>
       <sv:node sv:name="kohler:content">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -714,7 +933,7 @@
         <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:14:06.555+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:58.815+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -726,7 +945,7 @@
         <sv:value>zh</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:title" sv:type="String">
-        <sv:value>Product Story 1</sv:value>
+        <sv:value>产品故事3</sv:value>
       </sv:property>
       <sv:node sv:name="kohler:content">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -785,13 +1004,13 @@
         <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:14:06.555+08:00</sv:value>
+        <sv:value>2016-08-24T14:20:58.815+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2016-08-24T11:14:10.790+08:00</sv:value>
+        <sv:value>2016-08-24T14:21:01.298+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>70c1a3a3-c32b-4fab-bd42-61e8261cb2c3</sv:value>
@@ -800,7 +1019,77 @@
         <sv:value>zh</sv:value>
       </sv:property>
       <sv:property sv:name="kohler:title" sv:type="String">
-        <sv:value>Product Story 1</sv:value>
+        <sv:value>产品故事3</sv:value>
+      </sv:property>
+      <sv:node sv:name="kohler:content">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippostd:html</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:content" sv:type="String">
+          <sv:value>&lt;p&gt;Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions&lt;/p&gt;</sv:value>
+        </sv:property>
+      </sv:node>
+      <sv:node sv:name="kohler:image">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippogallerypicker:imagelink</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>6fe51eaf-72ef-4fb4-8a27-184ed42fa7a7</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+      </sv:node>
+      <sv:node sv:name="kohler:link">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>hippo:mirror</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:docbase" sv:type="String">
+          <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+        </sv:property>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="product-story3">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>kohler:bannerdocument</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c03664a3-7de7-4a2e-8b10-19a073aabe43</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>banners/product-story3/product-story3</sv:value>
+        <sv:value>banners/product-story3/product-story3[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-07-06T16:43:20.864+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T14:20:51.049+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>70c1a3a3-c32b-4fab-bd42-61e8261cb2c3</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>zh</sv:value>
+      </sv:property>
+      <sv:property sv:name="kohler:title" sv:type="String">
+        <sv:value>产品故事3</sv:value>
       </sv:property>
       <sv:node sv:name="kohler:content">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">

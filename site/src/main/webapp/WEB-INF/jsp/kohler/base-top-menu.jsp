@@ -36,7 +36,7 @@
   </c:otherwise>
 </c:choose>
 	<li class="searchwrap">
-		<input type="text" name="searchbar" maxlength="250" placeholder="search" autocomplete="off">		
+		<input type="text" name="searchbar" maxlength="250" placeholder='<fmt:message key="search.submit.text"/>' autocomplete="off">		
 	</li>
 	<li class="my-cart">
 		<a href=""><img src="<hst:webfile  path="/images/cart.png"/>" alt=""></a>

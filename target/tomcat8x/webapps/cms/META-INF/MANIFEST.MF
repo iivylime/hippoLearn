@@ -6,7 +6,7 @@ Built-By: fxiong
 Implementation-Vendor-Id: com.kohler
 Project-Version: 0.1.0-SNAPSHOT
 Implementation-Vendor: 
-Project-Build: a86463ab00584e152d58adca8e47134723b500b0
+Project-Build: e3a398fa67f17eb5134b643be0a671cef522fb7a
 Hippo-Release-Version: 11.0.0
 Created-By: Apache Maven 3.2.1
 Build-Jdk: 1.8.0_91
