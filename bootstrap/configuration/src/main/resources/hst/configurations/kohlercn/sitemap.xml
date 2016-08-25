@@ -15,6 +15,9 @@
     <sv:property sv:name="hst:componentconfigurationid" sv:type="String">
       <sv:value>hst:pages/homepage</sv:value>
     </sv:property>
+    <sv:property sv:name="hst:refId" sv:type="String">
+      <sv:value>home</sv:value>
+    </sv:property>
   </sv:node>
   <sv:node sv:name="_any_">
     <sv:property sv:name="jcr:primaryType" sv:type="Name">
@@ -123,7 +126,7 @@
       <sv:value>hst:pages/faucets</sv:value>
     </sv:property>
     <sv:property sv:name="hst:relativecontentpath" sv:type="String">
-      <sv:value>sink faucets</sv:value>
+      <sv:value>水槽龙头</sv:value>
     </sv:property>
     <sv:node sv:name="_any_.html">
       <sv:property sv:name="jcr:primaryType" sv:type="Name">

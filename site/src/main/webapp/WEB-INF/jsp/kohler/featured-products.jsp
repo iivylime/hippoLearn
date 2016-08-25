@@ -13,7 +13,8 @@
 						</c:if>
 						<div class="content">
 							<h3>${item.string}</h3>
-							<p>${item.text}</p>
+							<c:if test="${not empty item.text}"><p>${item.text}</p></c:if>
+							<hst:html hippohtml="${item.description}"/>
 						</div>
 					</a>
 				</li>

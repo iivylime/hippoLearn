@@ -1,5 +1,6 @@
 <!doctype html>
 <%@ include file="/WEB-INF/jsp/include/imports.jsp" %>
+<hst:setBundle basename="essentials.global"/>
 <html lang="en">
 <head>
   <meta charset="utf-8"/>
@@ -15,7 +16,15 @@
  			<div class="container clearfix">
 				<ul class="l">
 					<li><a href="">Kohler Company <img src="<hst:webfile  path="/images/arrow-right.png"/>" alt=""></a></li>
-					<li><a href="">蒙古</a></li>
+					
+					<c:if test="${not empty pageContext.request and not empty pageContext.request.locale}">	
+						<c:choose><c:when test="${pageContext.request.locale.language == 'en'}">
+							<c:set var="path" value="/site/cn"/>
+						</c:when><c:otherwise>
+							<c:set var="path" value="/site/"/>
+						</c:otherwise></c:choose>
+					</c:if>
+					<li><a href="${path}"><fmt:message key="lang.text"/></a></li>
 				</ul>
 				<hst:include ref="top"/> 				
  			</div>

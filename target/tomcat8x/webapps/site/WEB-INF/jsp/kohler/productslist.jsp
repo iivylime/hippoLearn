@@ -1,4 +1,5 @@
 <%@ include file="/WEB-INF/jsp/include/imports.jsp" %>
+<hst:setBundle basename="essentials.global"/>
 <c:if test="${not empty requestScope.pageable}">
 <div class="productcontainer">
 <div class="action-wrap"><%-- 
@@ -8,12 +9,12 @@
 		<option value="">Name Z-A</option>
 	</select> --%>
 	<div class="sort-dropdown">
-		<p>order by</p>
+		<p><fmt:message key="sort.orderby"/></p>
 		<ul class="dropdownlist">
-			<li class="option" data-type="sku" data-ascend="true">Sku: A-Z </li>
-			<li class="option" data-type="sku" data-ascend="false">Sku: Z-A </li>
-			<li class="option" data-type="price" data-ascend="false">Price : High - Low</li>
-			<li class="option" data-type="price"data-ascend="true">Price: Low - High</li>
+			<%-- <li class="option" data-type="name" data-ascend="true">Name: A-Z </li>
+			<li class="option" data-type="name" data-ascend="false">Name: Z-A </li>--%>
+			<li class="option" data-type="price" data-ascend="false"><fmt:message key="sort.price.hightolow"/></li>
+			<li class="option" data-type="price"data-ascend="true"><fmt:message key="sort.price.lowtohigh"/></li>
 		</ul>
 	</div>
 	<div class="buttons">
@@ -25,7 +26,7 @@
 <ul class="product-category-list">
  <c:forEach var="item" items="${requestScope.pageable.items}" varStatus="status">
          		<hst:link var="link" hippobean="${item}"/>
-	<li class="col-4" data-price="${item.price}" data-sku="${item.sku}">
+	<li class="col-4" data-price="${item.price}">
 		<a href="${link}">
 			<c:if test="${not empty  item.thumbnail}">
 							<hst:link var="img" hippobean="${item.thumbnail}"/>

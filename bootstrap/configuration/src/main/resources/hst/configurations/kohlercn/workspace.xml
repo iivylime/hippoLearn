@@ -32,14 +32,14 @@
         <sv:value>hst:sitemenu</sv:value>
       </sv:property>
       <sv:property sv:name="hst:lastmodified" sv:type="Date">
-        <sv:value>2016-08-23T16:08:35.588+08:00</sv:value>
+        <sv:value>2016-08-25T11:33:08.318+08:00</sv:value>
       </sv:property>
-      <sv:node sv:name="BATHROOM">
+      <sv:node sv:name="水龙头产品">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
           <sv:value>hst:sitemenuitem</sv:value>
         </sv:property>
         <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
-          <sv:value>bathroom</sv:value>
+          <sv:value>faucets</sv:value>
         </sv:property>
         <sv:property sv:name="hst:repobased" sv:type="Boolean">
           <sv:value>false</sv:value>
@@ -53,7 +53,7 @@
           </sv:property>
         </sv:node>
       </sv:node>
-      <sv:node sv:name="KITCHENS">
+      <sv:node sv:name="厨房产品">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
           <sv:value>hst:sitemenuitem</sv:value>
         </sv:property>
@@ -64,7 +64,7 @@
           <sv:value>false</sv:value>
         </sv:property>
       </sv:node>
-      <sv:node sv:name="PROFESSIONALS">
+      <sv:node sv:name="设计师之家">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
           <sv:value>hst:sitemenuitem</sv:value>
         </sv:property>
@@ -86,7 +86,7 @@
           <sv:value>false</sv:value>
         </sv:property>
       </sv:node>
-      <sv:node sv:name="Ideas">
+      <sv:node sv:name="家居畅想">
         <sv:property sv:name="jcr:primaryType" sv:type="Name">
           <sv:value>hst:sitemenuitem</sv:value>
         </sv:property>
@@ -223,7 +223,13 @@
           <sv:value>hst:containercomponent</sv:value>
         </sv:property>
         <sv:property sv:name="hst:lastmodified" sv:type="Date">
-          <sv:value>2016-07-14T10:20:29.008+08:00</sv:value>
+          <sv:value>2016-08-25T13:59:49.715+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hst:lockedby" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hst:lockedon" sv:type="Date">
+          <sv:value>2016-08-25T13:59:49.712+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hst:xtype" sv:type="String">
           <sv:value>HST.vBox</sv:value>
@@ -257,12 +263,12 @@
             <sv:value>interval</sv:value>
           </sv:property>
           <sv:property sv:name="hst:parametervalues" sv:type="String" sv:multiple="true">
-            <sv:value>banners/product-story4</sv:value>
-            <sv:value>banners/product-story3</sv:value>
+            <sv:value>banners/cn-banner-4</sv:value>
+            <sv:value>banners/cn-banner-3</sv:value>
             <sv:value/>
-            <sv:value>banners/spring-showers</sv:value>
-            <sv:value>banners/product-story2</sv:value>
-            <sv:value>banners/product-story1</sv:value>
+            <sv:value>banners/cn-banner-5</sv:value>
+            <sv:value>banners/cn-banner-2</sv:value>
+            <sv:value>banners/cn-banner-1</sv:value>
             <sv:value>on</sv:value>
             <sv:value>on</sv:value>
             <sv:value>1663</sv:value>

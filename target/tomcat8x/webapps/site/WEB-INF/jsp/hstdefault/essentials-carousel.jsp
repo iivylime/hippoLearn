@@ -20,7 +20,7 @@
         <c:set var="active" value="${counter.first ? ' active':''}"/>
         <div class="item${active}">
           <img src="<hst:link hippobean="${item.image}" />" alt="${fn:escapeXml(item.title)}"/>
-          <div class="heading">
+         <%--  <div class="heading">
             <c:choose>
               <c:when test="${item.link ne null}">
                 <h1><a href="<hst:link hippobean="${item.link}"/>"><c:out value="${item.title}"/></a></h1>
@@ -30,7 +30,7 @@
               </c:otherwise>
             </c:choose>
             <hst:html hippohtml="${item.content}"/>
-          </div>
+          </div>--%>
         </div>
       </c:forEach>
     </div>

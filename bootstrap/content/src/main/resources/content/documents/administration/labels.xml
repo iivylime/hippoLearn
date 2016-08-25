@@ -55,13 +55,13 @@
         <sv:value>2014-08-21T22:10:13.443+02:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2014-08-21T22:10:52.812+02:00</sv:value>
+        <sv:value>2016-08-25T15:03:18.920+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2014-08-21T22:10:54.657+02:00</sv:value>
+        <sv:value>2016-08-25T15:03:21.068+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>febe40b3-c7f6-473b-8db0-01ab09278bfc</sv:value>
@@ -71,15 +71,34 @@
       </sv:property>
       <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
         <sv:value>Text shown in the global page footer.</sv:value>
+        <sv:value>display the other language</sv:value>
+        <sv:value/>
+        <sv:value/>
+        <sv:value/>
       </sv:property>
       <sv:property sv:name="resourcebundle:id" sv:type="String">
         <sv:value>essentials.global</sv:value>
       </sv:property>
       <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
         <sv:value>footer.text</sv:value>
+        <sv:value>lang.text</sv:value>
+        <sv:value>sort.price.lowtohigh</sv:value>
+        <sv:value>sort.price.hightolow</sv:value>
+        <sv:value>sort.orderby</sv:value>
       </sv:property>
       <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
         <sv:value>©2016</sv:value>
+        <sv:value>中文</sv:value>
+        <sv:value>Price: Low - High</sv:value>
+        <sv:value>Price : High - Low</sv:value>
+        <sv:value>order by</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>©2016</sv:value>
+        <sv:value>English</sv:value>
+        <sv:value>价格从低到高</sv:value>
+        <sv:value>价格从高到低</sv:value>
+        <sv:value>排序</sv:value>
       </sv:property>
     </sv:node>
     <sv:node sv:name="global">
@@ -112,7 +131,7 @@
         <sv:value>2014-08-21T22:10:13.443+02:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2014-08-21T22:10:52.812+02:00</sv:value>
+        <sv:value>2016-08-25T15:03:18.920+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -125,15 +144,34 @@
       </sv:property>
       <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
         <sv:value>Text shown in the global page footer.</sv:value>
+        <sv:value>display the other language</sv:value>
+        <sv:value/>
+        <sv:value/>
+        <sv:value/>
       </sv:property>
       <sv:property sv:name="resourcebundle:id" sv:type="String">
         <sv:value>essentials.global</sv:value>
       </sv:property>
       <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
         <sv:value>footer.text</sv:value>
+        <sv:value>lang.text</sv:value>
+        <sv:value>sort.price.lowtohigh</sv:value>
+        <sv:value>sort.price.hightolow</sv:value>
+        <sv:value>sort.orderby</sv:value>
       </sv:property>
       <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
         <sv:value>©2016</sv:value>
+        <sv:value>中文</sv:value>
+        <sv:value>Price: Low - High</sv:value>
+        <sv:value>Price : High - Low</sv:value>
+        <sv:value>order by</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>©2016</sv:value>
+        <sv:value>English</sv:value>
+        <sv:value>价格从低到高</sv:value>
+        <sv:value>价格从高到低</sv:value>
+        <sv:value>排序</sv:value>
       </sv:property>
     </sv:node>
     <sv:node sv:name="global">
@@ -151,9 +189,6 @@
         <sv:value>labels/global/global</sv:value>
         <sv:value>labels/global/global[2]</sv:value>
       </sv:property>
-      <sv:property sv:name="hippostd:holder" sv:type="String">
-        <sv:value>admin</sv:value>
-      </sv:property>
       <sv:property sv:name="hippostd:state" sv:type="String">
         <sv:value>draft</sv:value>
       </sv:property>
@@ -167,7 +202,7 @@
         <sv:value>2014-08-21T22:10:13.443+02:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2016-08-24T14:43:43.607+08:00</sv:value>
+        <sv:value>2016-08-25T15:02:56.590+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
@@ -180,15 +215,34 @@
       </sv:property>
       <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
         <sv:value>Text shown in the global page footer.</sv:value>
+        <sv:value>display the other language</sv:value>
+        <sv:value/>
+        <sv:value/>
+        <sv:value/>
       </sv:property>
       <sv:property sv:name="resourcebundle:id" sv:type="String">
         <sv:value>essentials.global</sv:value>
       </sv:property>
       <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
         <sv:value>footer.text</sv:value>
+        <sv:value>lang.text</sv:value>
+        <sv:value>sort.price.lowtohigh</sv:value>
+        <sv:value>sort.price.hightolow</sv:value>
+        <sv:value>sort.orderby</sv:value>
       </sv:property>
       <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
         <sv:value>©2016</sv:value>
+        <sv:value>中文</sv:value>
+        <sv:value>Price: Low - High</sv:value>
+        <sv:value>Price : High - Low</sv:value>
+        <sv:value>order by</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>©2016</sv:value>
+        <sv:value>English</sv:value>
+        <sv:value>价格从低到高</sv:value>
+        <sv:value>价格从高到低</sv:value>
+        <sv:value>排序</sv:value>
       </sv:property>
     </sv:node>
   </sv:node>
@@ -293,10 +347,9 @@
       </sv:property>
       <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
         <sv:value>live</sv:value>
-        <sv:value>preview</sv:value>
       </sv:property>
       <sv:property sv:name="hippo:related___pathreference" sv:type="String">
-        <sv:value>labels/pagenotfound</sv:value>
+        <sv:value>labels/pagenotfound/pagenotfound[2]</sv:value>
       </sv:property>
       <sv:property sv:name="hippostd:state" sv:type="String">
         <sv:value>published</sv:value>
@@ -311,13 +364,13 @@
         <sv:value>2014-08-21T17:08:08.703+02:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2014-08-21T17:11:53.242+02:00</sv:value>
+        <sv:value>2016-08-24T16:22:33.708+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2014-08-21T17:11:55.239+02:00</sv:value>
+        <sv:value>2016-08-24T16:22:35.973+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>f5c5c75c-8596-48c8-8dbd-63c4f6b13a2d</sv:value>
@@ -339,6 +392,130 @@
       <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
         <sv:value>Page not found (404)</sv:value>
         <sv:value>The page you requested was not found. - [This text can be edited &lt;a href="http://localhost:8080/cms/?1&amp;path=/content/documents/administration/labels/pagenotfound" target="_blank"&gt;here&lt;/a&gt;.]</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>页面没有找到</sv:value>
+        <sv:value>您所请求的页面没有找到</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="pagenotfound">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>resourcebundle:resourcebundle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>898a2d41-4255-4305-854e-1f267168545b</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>labels/pagenotfound/pagenotfound</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2014-08-21T17:08:08.703+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T16:22:33.708+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>f5c5c75c-8596-48c8-8dbd-63c4f6b13a2d</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>document-type-locale</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
+        <sv:value>Title displayed when page is not found.</sv:value>
+        <sv:value>Text displayed when page is not found.</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:id" sv:type="String">
+        <sv:value>essentials.pagenotfound</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
+        <sv:value>pagenotfound.title</sv:value>
+        <sv:value>pagenotfound.text</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
+        <sv:value>Page not found (404)</sv:value>
+        <sv:value>The page you requested was not found. - [This text can be edited &lt;a href="http://localhost:8080/cms/?1&amp;path=/content/documents/administration/labels/pagenotfound" target="_blank"&gt;here&lt;/a&gt;.]</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>页面没有找到</sv:value>
+        <sv:value>您所请求的页面没有找到</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="pagenotfound">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>resourcebundle:resourcebundle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c731f05b-ba76-4fd2-8c99-6e57ad8bc137</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>labels/pagenotfound/pagenotfound[2]</sv:value>
+        <sv:value>labels/pagenotfound/pagenotfound</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2014-08-21T17:08:08.703+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T16:22:20.482+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>f5c5c75c-8596-48c8-8dbd-63c4f6b13a2d</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>document-type-locale</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
+        <sv:value>Title displayed when page is not found.</sv:value>
+        <sv:value>Text displayed when page is not found.</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:id" sv:type="String">
+        <sv:value>essentials.pagenotfound</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
+        <sv:value>pagenotfound.title</sv:value>
+        <sv:value>pagenotfound.text</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
+        <sv:value>Page not found (404)</sv:value>
+        <sv:value>The page you requested was not found. - [This text can be edited &lt;a href="http://localhost:8080/cms/?1&amp;path=/content/documents/administration/labels/pagenotfound" target="_blank"&gt;here&lt;/a&gt;.]</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>页面没有找到</sv:value>
+        <sv:value>您所请求的页面没有找到</sv:value>
       </sv:property>
     </sv:node>
   </sv:node>
@@ -446,10 +623,9 @@
       </sv:property>
       <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
         <sv:value>live</sv:value>
-        <sv:value>preview</sv:value>
       </sv:property>
       <sv:property sv:name="hippo:related___pathreference" sv:type="String">
-        <sv:value>labels/searchbox</sv:value>
+        <sv:value>labels/searchbox/searchbox[2]</sv:value>
       </sv:property>
       <sv:property sv:name="hippostd:state" sv:type="String">
         <sv:value>published</sv:value>
@@ -464,13 +640,13 @@
         <sv:value>2014-08-21T22:47:10.894+02:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-        <sv:value>2014-08-21T22:47:47.214+02:00</sv:value>
+        <sv:value>2016-08-24T16:21:46.016+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
         <sv:value>admin</sv:value>
       </sv:property>
       <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-        <sv:value>2014-08-21T22:47:49.117+02:00</sv:value>
+        <sv:value>2016-08-24T16:21:50.013+08:00</sv:value>
       </sv:property>
       <sv:property sv:name="hippotranslation:id" sv:type="String">
         <sv:value>1fffbdfc-ea25-4578-b9e9-7986de9f6667</sv:value>
@@ -489,6 +665,331 @@
       </sv:property>
       <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
         <sv:value>Search</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>搜索</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="searchbox">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>resourcebundle:resourcebundle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>7d80ff94-8866-42e4-9ff8-6ce76c61f254</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>labels/searchbox/searchbox</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2014-08-21T22:47:10.894+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T16:21:46.016+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>1fffbdfc-ea25-4578-b9e9-7986de9f6667</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>document-type-locale</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
+        <sv:value>Placeholder text for search box.</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:id" sv:type="String">
+        <sv:value>essentials.searchbox</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
+        <sv:value>searchbox.placeholder</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
+        <sv:value>Search</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>搜索</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="searchbox">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>resourcebundle:resourcebundle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>85110827-223b-4f92-825a-980c6769184c</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>labels/searchbox/searchbox</sv:value>
+        <sv:value>labels/searchbox/searchbox[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2014-08-21T22:47:10.894+02:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-24T16:21:30.854+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>1fffbdfc-ea25-4578-b9e9-7986de9f6667</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>document-type-locale</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
+        <sv:value>Placeholder text for search box.</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:id" sv:type="String">
+        <sv:value>essentials.searchbox</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
+        <sv:value>searchbox.placeholder</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
+        <sv:value>Search</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>搜索</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="sink-faucets">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippo:handle</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippo:named</sv:value>
+      <sv:value>mix:referenceable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>c805d80d-8f51-411f-ad12-c3eb66223900</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippo:name" sv:type="String">
+      <sv:value>Sink Faucets</sv:value>
+    </sv:property>
+    <sv:node sv:name="sink-faucets">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>resourcebundle:resourcebundle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>74047170-a964-4bd0-9c07-a66efcfcf77e</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>labels/sink-faucets/sink-faucets[3]</sv:value>
+        <sv:value>labels/sink-faucets/sink-faucets[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>draft</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-08-25T15:06:27.839+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-25T15:17:44.963+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>01055c55-733b-42bf-bb7e-153cd599b8ce</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>document-type-locale</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
+        <sv:value/>
+        <sv:value/>
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:id" sv:type="String">
+        <sv:value>essentials.faucets</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
+        <sv:value>filter.by</sv:value>
+        <sv:value>clear.all</sv:value>
+        <sv:value>products</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
+        <sv:value>Filter by</sv:value>
+        <sv:value>Clear All</sv:value>
+        <sv:value>products</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>筛选</sv:value>
+        <sv:value>清空</sv:value>
+        <sv:value>件产品</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="sink-faucets">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>resourcebundle:resourcebundle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:versionable</sv:value>
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>e0d3eb0f-e6b1-49d7-9e23-1b25af47c450</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>preview</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>labels/sink-faucets/sink-faucets[3]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>unpublished</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-08-25T15:06:27.839+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-25T15:17:56.536+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>01055c55-733b-42bf-bb7e-153cd599b8ce</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>document-type-locale</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
+        <sv:value/>
+        <sv:value/>
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:id" sv:type="String">
+        <sv:value>essentials.faucets</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
+        <sv:value>filter.by</sv:value>
+        <sv:value>clear.all</sv:value>
+        <sv:value>products</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
+        <sv:value>Filter by</sv:value>
+        <sv:value>Clear All</sv:value>
+        <sv:value>products</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>筛选</sv:value>
+        <sv:value>清空</sv:value>
+        <sv:value>件产品</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="sink-faucets">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>resourcebundle:resourcebundle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>b4dd6a20-36ea-4dc7-8cb3-5c5d9a27ea82</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+        <sv:value>labels/sink-faucets/sink-faucets[2]</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:state" sv:type="String">
+        <sv:value>published</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+        <sv:value>live</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+        <sv:value>2016-08-25T15:06:27.839+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+        <sv:value>2016-08-25T15:17:56.536+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+        <sv:value>admin</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+        <sv:value>2016-08-25T15:17:58.221+08:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:id" sv:type="String">
+        <sv:value>01055c55-733b-42bf-bb7e-153cd599b8ce</sv:value>
+      </sv:property>
+      <sv:property sv:name="hippotranslation:locale" sv:type="String">
+        <sv:value>document-type-locale</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:descriptions" sv:type="String" sv:multiple="true">
+        <sv:value/>
+        <sv:value/>
+        <sv:value/>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:id" sv:type="String">
+        <sv:value>essentials.faucets</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:keys" sv:type="String" sv:multiple="true">
+        <sv:value>filter.by</sv:value>
+        <sv:value>clear.all</sv:value>
+        <sv:value>products</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages" sv:type="String" sv:multiple="true">
+        <sv:value>Filter by</sv:value>
+        <sv:value>Clear All</sv:value>
+        <sv:value>products</sv:value>
+      </sv:property>
+      <sv:property sv:name="resourcebundle:messages_zh_CN" sv:type="String" sv:multiple="true">
+        <sv:value>筛选</sv:value>
+        <sv:value>清空</sv:value>
+        <sv:value>件产品</sv:value>
       </sv:property>
     </sv:node>
   </sv:node>

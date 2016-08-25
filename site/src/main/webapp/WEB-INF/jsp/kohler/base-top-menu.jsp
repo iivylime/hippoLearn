@@ -1,15 +1,15 @@
 <%@ include file="/WEB-INF/jsp/include/imports.jsp" %>
-
+<hst:setBundle basename="essentials.searchbox"/>
 <%--@elvariable id="menu" type="org.hippoecm.hst.core.sitemenu.HstSiteMenu"--%>
 <%--@elvariable id="editMode" type="java.lang.Boolean"--%>
 <ul class="l">
 <c:choose>
   <c:when test="${menu ne null}">
     <c:if test="${not empty menu.siteMenuItems}">
-        <c:forEach var="item" items="${menu.siteMenuItems}"> 
-        <%--  <c:if test="${not empty items.childMenuItems}">
+        <c:forEach var="item" items="${menu.siteMenuItems}">
+      <%-- <c:if test="${not empty items.childMenuItems}">
         	 <c:forEach var="child" items="${items.childMenuItems}">
-        	 	${item.name}-->${child.name}
+        	 	test test -->${item.name}-->${child.name}
         	 </c:forEach>
         </c:if>--%>
           <c:choose>
@@ -36,7 +36,7 @@
   </c:otherwise>
 </c:choose>
 	<li class="searchwrap">
-		<input type="text" name="searchbar" maxlength="250" placeholder='<fmt:message key="search.submit.text"/>' autocomplete="off">		
+		<input type="text" name="searchbar" maxlength="250" placeholder="<fmt:message key="searchbox.placeholder"/>" autocomplete="off">		
 	</li>
 	<li class="my-cart">
 		<a href=""><img src="<hst:webfile  path="/images/cart.png"/>" alt=""></a>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" sv:name="水槽龙头">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>hippofacnav:facetnavigation</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippo:count" sv:type="Long">
+    <sv:value>19</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippo:docbase" sv:type="String">
+    <sv:value>44e8c7aa-c169-441d-8097-6d67c4386df5</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippofacnav:facetnodenames" sv:type="String" sv:multiple="true">
+    <sv:value>type</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippofacnav:facets" sv:type="String" sv:multiple="true">
+    <sv:value>kohler:type</sv:value>
+  </sv:property>
+  <sv:property sv:name="hippofacnav:sortby" sv:type="String" sv:multiple="true">
+    <sv:value>kohler:string</sv:value>
+  </sv:property>
+</sv:node>

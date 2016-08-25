@@ -7,14 +7,14 @@
       <sv:value>hst:sitemenu</sv:value>
     </sv:property>
     <sv:property sv:name="hst:lastmodified" sv:type="Date">
-      <sv:value>2016-08-23T16:08:35.588+08:00</sv:value>
+      <sv:value>2016-08-25T11:24:28.166+08:00</sv:value>
     </sv:property>
-    <sv:node sv:name="BATHROOM">
+    <sv:node sv:name="Faucets">
       <sv:property sv:name="jcr:primaryType" sv:type="Name">
         <sv:value>hst:sitemenuitem</sv:value>
       </sv:property>
       <sv:property sv:name="hst:referencesitemapitem" sv:type="String">
-        <sv:value>bathroom</sv:value>
+        <sv:value>faucets</sv:value>
       </sv:property>
       <sv:property sv:name="hst:repobased" sv:type="Boolean">
         <sv:value>false</sv:value>

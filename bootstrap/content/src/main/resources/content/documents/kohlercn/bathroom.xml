@@ -79,7 +79,7 @@
           <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:40:32.452+08:00</sv:value>
+          <sv:value>2016-08-25T17:14:01.458+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
           <sv:value>admin</sv:value>
@@ -93,11 +93,17 @@
         <sv:property sv:name="kohler:catlog" sv:type="String">
           <sv:value>bathroom</sv:value>
         </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
         <sv:property sv:name="kohler:string" sv:type="String">
-          <sv:value>Aleutian™ Suite</sv:value>
+          <sv:value>纽英伦套间</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:text" sv:type="String">
-          <sv:value>Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions</sv:value>
+          <sv:value/>
         </sv:property>
         <sv:property sv:name="kohler:type" sv:type="String">
           <sv:value/>
@@ -107,7 +113,11 @@
             <sv:value>hippostd:html</sv:value>
           </sv:property>
           <sv:property sv:name="hippostd:content" sv:type="String">
-            <sv:value/>
+            <sv:value>&lt;p&gt;沿袭英国欧罗巴的设计风格，&lt;/p&gt;
+
+&lt;p&gt;并加入自由创新的美国精神，&lt;/p&gt;
+
+&lt;p&gt;生活的乐趣，就在其中。&lt;/p&gt;</sv:value>
           </sv:property>
         </sv:node>
         <sv:node sv:name="kohler:thumbnail">
@@ -173,13 +183,13 @@
           <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:40:32.452+08:00</sv:value>
+          <sv:value>2016-08-25T17:14:01.458+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
           <sv:value>admin</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:40:39.544+08:00</sv:value>
+          <sv:value>2016-08-25T17:14:05.578+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippotranslation:id" sv:type="String">
           <sv:value>cb93d8f4-c52f-40c6-a9f0-3f0e2c935b6c</sv:value>
@@ -190,11 +200,17 @@
         <sv:property sv:name="kohler:catlog" sv:type="String">
           <sv:value>bathroom</sv:value>
         </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
         <sv:property sv:name="kohler:string" sv:type="String">
-          <sv:value>Aleutian™ Suite</sv:value>
+          <sv:value>纽英伦套间</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:text" sv:type="String">
-          <sv:value>Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions</sv:value>
+          <sv:value/>
         </sv:property>
         <sv:property sv:name="kohler:type" sv:type="String">
           <sv:value/>
@@ -204,7 +220,114 @@
             <sv:value>hippostd:html</sv:value>
           </sv:property>
           <sv:property sv:name="hippostd:content" sv:type="String">
-            <sv:value/>
+            <sv:value>&lt;p&gt;沿袭英国欧罗巴的设计风格，&lt;/p&gt;
+
+&lt;p&gt;并加入自由创新的美国精神，&lt;/p&gt;
+
+&lt;p&gt;生活的乐趣，就在其中。&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>bfae6f48-4679-4f0c-b461-d7f6e78ce32c</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="san-raphael-class-5-skirted-trapway-1-pc">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>f931d80b-3051-4040-8aca-266dbc2a5d1f</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/toilets/san-raphael-class-5-skirted-trapway-1-pc/san-raphael-class-5-skirted-trapway-1-pc</sv:value>
+          <sv:value>bathroom/toilets/san-raphael-class-5-skirted-trapway-1-pc/san-raphael-class-5-skirted-trapway-1-pc[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T17:13:46.394+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>cb93d8f4-c52f-40c6-a9f0-3f0e2c935b6c</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value>bathroom</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>纽英伦套间</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;沿袭英国欧罗巴的设计风格，&lt;/p&gt;
+
+&lt;p&gt;并加入自由创新的美国精神，&lt;/p&gt;
+
+&lt;p&gt;生活的乐趣，就在其中。&lt;/p&gt;</sv:value>
           </sv:property>
         </sv:node>
         <sv:node sv:name="kohler:thumbnail">
@@ -281,7 +404,7 @@
           <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:41:01.155+08:00</sv:value>
+          <sv:value>2016-08-25T17:15:42.344+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
           <sv:value>admin</sv:value>
@@ -295,11 +418,17 @@
         <sv:property sv:name="kohler:catlog" sv:type="String">
           <sv:value>bathroom</sv:value>
         </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
         <sv:property sv:name="kohler:string" sv:type="String">
-          <sv:value>Aleutian™ Suite</sv:value>
+          <sv:value>希尔维家庭式浴缸</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:text" sv:type="String">
-          <sv:value>Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions</sv:value>
+          <sv:value/>
         </sv:property>
         <sv:property sv:name="kohler:type" sv:type="String">
           <sv:value/>
@@ -309,7 +438,9 @@
             <sv:value>hippostd:html</sv:value>
           </sv:property>
           <sv:property sv:name="hippostd:content" sv:type="String">
-            <sv:value/>
+            <sv:value>&lt;p&gt;浴求更多，旨为守护更多。&lt;/p&gt;
+
+&lt;p&gt;井然有序，却又不失乐趣。&lt;/p&gt;</sv:value>
           </sv:property>
         </sv:node>
         <sv:node sv:name="kohler:thumbnail">
@@ -375,13 +506,13 @@
           <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:41:01.155+08:00</sv:value>
+          <sv:value>2016-08-25T17:15:42.344+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
           <sv:value>admin</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:41:04.691+08:00</sv:value>
+          <sv:value>2016-08-25T17:15:45.035+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippotranslation:id" sv:type="String">
           <sv:value>191a1759-fbbe-4514-988b-6ad33646d877</sv:value>
@@ -392,11 +523,17 @@
         <sv:property sv:name="kohler:catlog" sv:type="String">
           <sv:value>bathroom</sv:value>
         </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
         <sv:property sv:name="kohler:string" sv:type="String">
-          <sv:value>Aleutian™ Suite</sv:value>
+          <sv:value>希尔维家庭式浴缸</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:text" sv:type="String">
-          <sv:value>Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions</sv:value>
+          <sv:value/>
         </sv:property>
         <sv:property sv:name="kohler:type" sv:type="String">
           <sv:value/>
@@ -406,7 +543,110 @@
             <sv:value>hippostd:html</sv:value>
           </sv:property>
           <sv:property sv:name="hippostd:content" sv:type="String">
-            <sv:value/>
+            <sv:value>&lt;p&gt;浴求更多，旨为守护更多。&lt;/p&gt;
+
+&lt;p&gt;井然有序，却又不失乐趣。&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>ed306520-dce1-42b7-ab6e-9b5acfc21166</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="feature-2">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>739aca84-1142-4eed-bdb2-4c6a1c5347af</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/toilets/feature-2/feature-2[2]</sv:value>
+          <sv:value>bathroom/toilets/feature-2/feature-2</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T17:15:34.765+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>191a1759-fbbe-4514-988b-6ad33646d877</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value>bathroom</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>希尔维家庭式浴缸</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;浴求更多，旨为守护更多。&lt;/p&gt;
+
+&lt;p&gt;井然有序，却又不失乐趣。&lt;/p&gt;</sv:value>
           </sv:property>
         </sv:node>
         <sv:node sv:name="kohler:thumbnail">
@@ -483,7 +723,7 @@
           <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:41:19.758+08:00</sv:value>
+          <sv:value>2016-08-25T16:47:16.142+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
           <sv:value>admin</sv:value>
@@ -497,11 +737,17 @@
         <sv:property sv:name="kohler:catlog" sv:type="String">
           <sv:value>bathroom</sv:value>
         </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
         <sv:property sv:name="kohler:string" sv:type="String">
-          <sv:value>Aleutian™ Suite</sv:value>
+          <sv:value>科勒精选系列</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:text" sv:type="String">
-          <sv:value>Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions</sv:value>
+          <sv:value>豪华从来没有上限，精致却是有分寸的奢侈。科勒精选，带来全球精致的材质，经由机械和工匠的耗时细作，一并融入跨领域的高科技，最终，以超越美学的设计，呈现在你眼前。</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:type" sv:type="String">
           <sv:value/>
@@ -577,13 +823,13 @@
           <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:41:19.758+08:00</sv:value>
+          <sv:value>2016-08-25T16:47:16.142+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
           <sv:value>admin</sv:value>
         </sv:property>
         <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
-          <sv:value>2016-08-24T13:41:23.777+08:00</sv:value>
+          <sv:value>2016-08-25T16:47:18.495+08:00</sv:value>
         </sv:property>
         <sv:property sv:name="hippotranslation:id" sv:type="String">
           <sv:value>4c551dcf-99f7-471b-bf5a-b8c5fb61795a</sv:value>
@@ -594,11 +840,17 @@
         <sv:property sv:name="kohler:catlog" sv:type="String">
           <sv:value>bathroom</sv:value>
         </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
         <sv:property sv:name="kohler:string" sv:type="String">
-          <sv:value>Aleutian™ Suite</sv:value>
+          <sv:value>科勒精选系列</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:text" sv:type="String">
-          <sv:value>Suite seeks to provide the best care, safety features and enjoyment and its full range of modern rustic solutions</sv:value>
+          <sv:value>豪华从来没有上限，精致却是有分寸的奢侈。科勒精选，带来全球精致的材质，经由机械和工匠的耗时细作，一并融入跨领域的高科技，最终，以超越美学的设计，呈现在你眼前。</sv:value>
         </sv:property>
         <sv:property sv:name="kohler:type" sv:type="String">
           <sv:value/>
@@ -617,6 +869,2008 @@
           </sv:property>
           <sv:property sv:name="hippo:docbase" sv:type="String">
             <sv:value>365efa4e-34b7-4105-9383-f1efbd6356eb</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="feature-3">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>896c7667-d830-4e19-934b-836d32ed3ecc</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/toilets/feature-3/feature-3</sv:value>
+          <sv:value>bathroom/toilets/feature-3/feature-3[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:holder" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-07T15:40:45.852+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T17:15:31.026+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>4c551dcf-99f7-471b-bf5a-b8c5fb61795a</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value>bathroom</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>0.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>科勒精选系列</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value>豪华从来没有上限，精致却是有分寸的奢侈。科勒精选，带来全球精致的材质，经由机械和工匠的耗时细作，一并融入跨领域的高科技，最终，以超越美学的设计，呈现在你眼前。</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>365efa4e-34b7-4105-9383-f1efbd6356eb</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="faucets">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>hippostd:folder</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+      <sv:value>hippotranslation:translated</sv:value>
+      <sv:value>mix:versionable</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>44e8c7aa-c169-441d-8097-6d67c4386df5</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippostd:foldertype" sv:type="String" sv:multiple="true">
+      <sv:value>new-translated-folder</sv:value>
+      <sv:value>new-document</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:id" sv:type="String">
+      <sv:value>33b161f7-4513-4a94-bc39-8c24beff69c6</sv:value>
+    </sv:property>
+    <sv:property sv:name="hippotranslation:locale" sv:type="String">
+      <sv:value>zh</sv:value>
+    </sv:property>
+    <sv:node sv:name="faucet_new_1">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>751bc70c-44a0-4220-a785-702bd41dff23</sv:value>
+      </sv:property>
+      <sv:node sv:name="faucet_new_1">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>7c80dba1-f443-4429-9437-198ffdacb758</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_1/faucet_new_1[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:30:28.370+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:14.667+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>9f57285d-d52e-40a7-8e8c-0ce91991b1e5</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>525.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99266-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts® 单孔厨房水槽水龙头13-1／2“摆动流嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>e276aec7-60af-47c8-8b4b-cd761d828b77</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_1">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>052330fc-2d47-4114-95ba-405306a8834b</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_1/faucet_new_1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:30:28.370+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:14.667+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:17.618+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>9f57285d-d52e-40a7-8e8c-0ce91991b1e5</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>525.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99266-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts® 单孔厨房水槽水龙头13-1／2“摆动流嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>e276aec7-60af-47c8-8b4b-cd761d828b77</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_1">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>7df86cc2-04bd-4d20-8eb6-9af65b2ed970</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_1/faucet_new_1[2]</sv:value>
+          <sv:value>bathroom/faucets/faucet_new_1/faucet_new_1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:30:28.370+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:06.044+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>9f57285d-d52e-40a7-8e8c-0ce91991b1e5</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>525.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99266-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts® 单孔厨房水槽水龙头13-1／2“摆动流嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>e276aec7-60af-47c8-8b4b-cd761d828b77</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="faucet_new_2">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>1796036f-e035-4db4-8a43-220e2f45f909</sv:value>
+      </sv:property>
+      <sv:node sv:name="faucet_new_2">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>6ad796f6-f49f-436d-bb7c-e88799d861e2</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_2/faucet_new_2[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:56.671+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>0bfec585-2113-46d3-ae09-76c49d5b35ef</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>550.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99265-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts® 双孔厨房水槽水龙头13-1／2“摆动流嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>34ef6c74-7e57-4343-bc2a-0b07e41ec4e7</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_2">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>fea15fe4-8841-4558-9dde-3dab49f345e6</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_2/faucet_new_2</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:56.671+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:58.974+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>0bfec585-2113-46d3-ae09-76c49d5b35ef</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>550.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99265-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts® 双孔厨房水槽水龙头13-1／2“摆动流嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>34ef6c74-7e57-4343-bc2a-0b07e41ec4e7</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_2">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>1fa724ee-806f-4e0c-8455-daf2302a8f10</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_2/faucet_new_2</sv:value>
+          <sv:value>bathroom/faucets/faucet_new_2/faucet_new_2[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:38:52.806+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>0bfec585-2113-46d3-ae09-76c49d5b35ef</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>550.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99265-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts® 双孔厨房水槽水龙头13-1／2“摆动流嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>34ef6c74-7e57-4343-bc2a-0b07e41ec4e7</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="faucet_new_3">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>579173dd-5ef7-4ac5-9cfa-e951ec9a3761</sv:value>
+      </sv:property>
+      <sv:node sv:name="faucet_new_3">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>001a7c4b-0433-4d4b-81c1-6493507ec643</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_3/faucet_new_3[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:25.347+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>f9400939-bf60-4967-8fec-63a9840ceb61</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>675.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99260-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts™ 单孔厨房水槽龙头有分/ 8“下拉嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>83c83e30-68ed-45a2-b798-0cc56a0b972e</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_3">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>a564c897-b123-430f-a774-a8fe5d4e8a63</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_3/faucet_new_3</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:25.347+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:27.723+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>f9400939-bf60-4967-8fec-63a9840ceb61</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>675.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99260-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts™ 单孔厨房水槽龙头有分/ 8“下拉嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>83c83e30-68ed-45a2-b798-0cc56a0b972e</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_3">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>36bcead3-21e2-4ebe-a76d-acc9e653e301</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_3/faucet_new_3</sv:value>
+          <sv:value>bathroom/faucets/faucet_new_3/faucet_new_3[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:21.446+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>f9400939-bf60-4967-8fec-63a9840ceb61</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>675.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99260-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts™ 单孔厨房水槽龙头有分/ 8“下拉嘴</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value>&lt;p&gt;&amp;lt;p class=&amp;quot;sku&amp;quot;&amp;gt;K-73168-CP&amp;lt;/p&amp;gt;&amp;lt;p class=&amp;quot;price&amp;quot;&amp;gt;$664.00&amp;lt;/p&amp;gt;&lt;/p&gt;</sv:value>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>83c83e30-68ed-45a2-b798-0cc56a0b972e</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="faucet_new_4">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>22761a27-19e2-485e-af0b-da50fb5467a7</sv:value>
+      </sv:property>
+      <sv:node sv:name="faucet_new_4">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>29cfa1f1-437a-4e85-b163-9d44e2fa37ae</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_4/faucet_new_4[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:51.076+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>e6bb1e2b-2ede-45b6-a099-e8f486d5f721</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>475.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99267-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts™ 酒吧水槽水龙头出口，维多利亚时代的设计</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>3521dc97-66b1-4ef3-b637-fe5add90db7c</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_4">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>1ceca019-ed3a-4a6b-af6c-58f385548730</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_4/faucet_new_4</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:51.076+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:53.796+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>e6bb1e2b-2ede-45b6-a099-e8f486d5f721</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>475.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99267-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts™ 酒吧水槽水龙头出口，维多利亚时代的设计</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>3521dc97-66b1-4ef3-b637-fe5add90db7c</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_new_4">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>5075a42e-18b5-4d61-a2c3-6573a24d30ec</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_new_4/faucet_new_4[2]</sv:value>
+          <sv:value>bathroom/faucets/faucet_new_4/faucet_new_4</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:39:45.318+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>e6bb1e2b-2ede-45b6-a099-e8f486d5f721</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>475.0</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-99267-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Artifacts™ 酒吧水槽水龙头出口，维多利亚时代的设计</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>新产品</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>3521dc97-66b1-4ef3-b637-fe5add90db7c</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="faucet_online_1">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>52275108-c6e6-43a7-9e80-37ba2fc6b2ad</sv:value>
+      </sv:property>
+      <sv:node sv:name="faucet_online_1">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>4c5e28f6-b89a-48ca-82b9-0648fed241a7</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_online_1/faucet_online_1[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:40:21.630+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>9c99b2c9-4bea-44f1-b3d3-e59950cd85c9</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>519.65</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-18865-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Carafe® 厨房滤水水槽龙头</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>在线购买</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>6160cf2e-b680-4617-ae9c-a94c235d4e35</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_online_1">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>37784995-0b68-42be-a4e5-ca313cf0e9eb</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_online_1/faucet_online_1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:40:21.630+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:40:23.660+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>9c99b2c9-4bea-44f1-b3d3-e59950cd85c9</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>519.65</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-18865-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Carafe® 厨房滤水水槽龙头</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>在线购买</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>6160cf2e-b680-4617-ae9c-a94c235d4e35</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_online_1">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>216883d0-11f8-467b-a0b4-117eee2bf1e8</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_online_1/faucet_online_1[2]</sv:value>
+          <sv:value>bathroom/faucets/faucet_online_1/faucet_online_1</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:40:07.383+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>9c99b2c9-4bea-44f1-b3d3-e59950cd85c9</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>519.65</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-18865-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Carafe® 厨房滤水水槽龙头</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>在线购买</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>6160cf2e-b680-4617-ae9c-a94c235d4e35</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+    </sv:node>
+    <sv:node sv:name="faucet_online_2">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>hippo:handle</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+        <sv:value>mix:referenceable</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>000cf9e1-2298-476c-822d-aab9427debf1</sv:value>
+      </sv:property>
+      <sv:node sv:name="faucet_online_2">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:versionable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>9da203c2-29d8-4c35-b9d1-e3a6ba441295</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>preview</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_online_2/faucet_online_2[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>unpublished</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:41:37.505+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>62779042-230d-41b6-a553-1bedb398b127</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>251.3</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-6665-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Wellspring® 具有当代设计的水龙头</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>在线购买</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>55590783-b4e5-465a-9ffc-ba6e8bda47aa</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_online_2">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>fcb688b0-b4bc-492a-beda-2d57da301efd</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_online_2/faucet_online_2</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>published</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:41:37.505+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:publicationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:41:41.129+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>62779042-230d-41b6-a553-1bedb398b127</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>251.3</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-6665-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Wellspring® 具有当代设计的水龙头</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>在线购买</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>55590783-b4e5-465a-9ffc-ba6e8bda47aa</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:midPicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+        <sv:node sv:name="kohler:largePicture">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>cafebabe-cafe-babe-cafe-babecafebabe</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
+          <sv:property sv:name="hippo:values" sv:type="String" sv:multiple="true"/>
+        </sv:node>
+      </sv:node>
+      <sv:node sv:name="faucet_online_2">
+        <sv:property sv:name="jcr:primaryType" sv:type="Name">
+          <sv:value>kohler:product</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:mixinTypes" sv:type="Name" sv:multiple="true">
+          <sv:value>mix:referenceable</sv:value>
+        </sv:property>
+        <sv:property sv:name="jcr:uuid" sv:type="String">
+          <sv:value>ad0f6df8-53ee-4116-b8c3-4666902c3d02</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippo:availability" sv:type="String" sv:multiple="true"/>
+        <sv:property sv:name="hippo:related___pathreference" sv:type="String">
+          <sv:value>bathroom/faucets/faucet_online_2/faucet_online_2</sv:value>
+          <sv:value>bathroom/faucets/faucet_online_2/faucet_online_2[2]</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:state" sv:type="String">
+          <sv:value>draft</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostd:stateSummary" sv:type="String">
+          <sv:value>live</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:createdBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:creationDate" sv:type="Date">
+          <sv:value>2016-07-16T21:35:51.582+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModificationDate" sv:type="Date">
+          <sv:value>2016-08-25T16:41:29.414+08:00</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippostdpubwf:lastModifiedBy" sv:type="String">
+          <sv:value>admin</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:id" sv:type="String">
+          <sv:value>62779042-230d-41b6-a553-1bedb398b127</sv:value>
+        </sv:property>
+        <sv:property sv:name="hippotranslation:locale" sv:type="String">
+          <sv:value>zh</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:catlog" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:price" sv:type="Double">
+          <sv:value>251.3</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:sku" sv:type="String">
+          <sv:value>K-6665-CP</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:string" sv:type="String">
+          <sv:value>Wellspring® 具有当代设计的水龙头</sv:value>
+        </sv:property>
+        <sv:property sv:name="kohler:text" sv:type="String">
+          <sv:value/>
+        </sv:property>
+        <sv:property sv:name="kohler:type" sv:type="String">
+          <sv:value>在线购买</sv:value>
+        </sv:property>
+        <sv:node sv:name="kohler:description">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippostd:html</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippostd:content" sv:type="String">
+            <sv:value/>
+          </sv:property>
+        </sv:node>
+        <sv:node sv:name="kohler:thumbnail">
+          <sv:property sv:name="jcr:primaryType" sv:type="Name">
+            <sv:value>hippogallerypicker:imagelink</sv:value>
+          </sv:property>
+          <sv:property sv:name="hippo:docbase" sv:type="String">
+            <sv:value>55590783-b4e5-465a-9ffc-ba6e8bda47aa</sv:value>
           </sv:property>
           <sv:property sv:name="hippo:facets" sv:type="String" sv:multiple="true"/>
           <sv:property sv:name="hippo:modes" sv:type="String" sv:multiple="true"/>
